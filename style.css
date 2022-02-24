@@ -1,0 +1,14 @@
+.top-header{
+    
+    background-color: black;
+    justify-content: flex-end;
+}
+
+@media (max-width: 575.98px) {
+    .lf-col-xs{
+        max-width: 30%;
+    }
+    .lf-offset-col-xs{
+        max-width: 30%;
+    }
+}
