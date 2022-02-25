@@ -88,6 +88,18 @@ h4{
     width: 70%;
 }
 
+.middle-jumbotron-section{
+    background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: top center;
+    background-size: cover;
+    padding-left: 50px;
+    padding-top: 250px;
+    padding-bottom: 50px;
+    margin-top: 120px;
+}
+
+
+
 .col-md-24, .col-lg-24 {
     position: relative;
     min-height: 1px;
