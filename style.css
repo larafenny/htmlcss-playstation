@@ -35,6 +35,14 @@ header{
     padding-left: 50px;
 }
 
-.jumbotron img{
-    
+.lf-red-button{
+    background-color: #cd3d0f;
+    display: inline;
+    border-radius: 40px;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
 }
