@@ -36,9 +36,17 @@ header{
 
 .lf-red-button{
     background-color: #cd3d0f;
-    display: inline;
+    display: inline-block;
     border-radius: 40px;
     padding: 10px;
+}
+
+.lf-blue-button{
+    background-color: #2d64e6;        
+    display: inline-block;
+    border-radius: 40px;
+    padding: 10px;
+    margin: 20px 0;
 }
 
 a{
@@ -61,10 +69,15 @@ h6{
 }
 
 h3{
-    font-size: 60px;
+    font-size: 50px;
 }
 
 h4{
     margin-top: 50px;
     color: #777777;
+    font-size: 24px;
+}
+
+.playstation-part-section img{
+    width: 100%
 }
