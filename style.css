@@ -77,7 +77,7 @@ h4{
 }
 
 
-.playstation-part-section img{
+.playstation-part-section img, .explore-ps-section img{
     width: 100%;
 }
 
@@ -106,7 +106,6 @@ h4{
 .new-entry-section{
     color: white;
     padding: 50px 0;
-
 }
 
 .new-entry-section img{
