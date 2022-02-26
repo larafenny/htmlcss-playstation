@@ -177,12 +177,15 @@ h4{
 
 footer{
     background-color: #00439b;
-    color: white
+    color: white;
+    padding-bottom: 50px;
 }
 
 footer img{
     width: 100%;
 }
+
+
 
 @media (min-width: 992px) {
     .col-md-24 {
