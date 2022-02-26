@@ -63,6 +63,18 @@ a{
     color: #3b6de4;
 }
 
+.lf-white-button{
+    background-color: white;        
+    display: inline-block;
+    border-radius: 40px;
+    padding: 10px;
+    margin: 20px 0;
+}
+
+.lf-white-button a{
+    color: black;
+}
+
 .lf-grey-button a{
     color: #3b6de4;
 }
@@ -136,6 +148,15 @@ h4{
 }
 
 .new-discount-section img{
+    width: 100%;
+}
+
+.playstation-now-section{
+    background-color: #151c3b;
+    color: white;
+}
+
+.playstation-now-section img{
     width: 100%;
 }
 
