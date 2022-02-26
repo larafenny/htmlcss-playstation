@@ -160,6 +160,10 @@ h4{
     width: 100%;
 }
 
+.social-section img{
+    width: 70%;
+}
+
 .col-md-24, .col-lg-24 {
     position: relative;
     min-height: 1px;
