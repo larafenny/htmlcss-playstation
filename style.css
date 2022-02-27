@@ -195,6 +195,15 @@ footer img{
     visibility: hidden;
 }
 
+.subnav img{
+    width: 50%;
+}
+
+.subnav h6{
+    color: black;
+    font-weight: 300;
+}
+
 .bottom-header:hover .subnav{
     visibility: visible;
 }
