@@ -189,6 +189,15 @@ footer img{
     display: inline;
 }
 
+.subnav{
+    height: 200px;
+    background-color: white;
+    visibility: hidden;
+}
+
+.bottom-header:hover .subnav{
+    visibility: visible;
+}
 
 
 @media (min-width: 992px) {
