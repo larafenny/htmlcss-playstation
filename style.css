@@ -189,6 +189,9 @@ footer img{
     display: inline;
 }
 
+
+/*****SUBNAV******/
+
 .subnav{
     height: 200px;
     background-color: white;
@@ -204,7 +207,20 @@ footer img{
     font-weight: 300;
 }
 
-.bottom-header:hover .subnav{
+.subnav a{
+    color: black;
+    font-weight: 300;
+}
+
+.subnav li{
+    display: inline;
+}
+
+.subnav ul{
+    list-style-type:circle;
+}
+
+#navbarDropdownMenuGiochi:hover .subnav{
     visibility: visible;
 }
 
@@ -226,4 +242,11 @@ footer img{
     .hidden-mobile{
         display: none;
         }
+}
+
+
+/**** ANIMATIONS ****/
+
+.card-game-section img:hover{
+    transform:translate(0,-20px);
 }
