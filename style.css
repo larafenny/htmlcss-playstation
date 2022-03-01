@@ -106,6 +106,24 @@ h4{
     width: 100%;
 }
 
+.playstation-part-section img{
+    opacity: 70%;
+}
+
+.playstation-part-section img:hover{
+    opacity: 100%;
+}
+
+.blue-bottom-border{
+    border-bottom: 3px solid #2d80d3;
+}
+
+.play-icon:hover{
+    border-bottom: 3px solid #2d80d3;
+
+}
+
+
 .play-icon h6{
     color: #777777;
 }
